@@ -44,15 +44,15 @@ To install VMware, set up Kali Linux as a virtual machine, and install Sleuth Ki
 
 ## OUTPUT:
 **VIRTUAL BOX:**
-<img width="1920" height="1080" alt="Screenshot (125)" src="https://github.com/user-attachments/assets/1b85b41b-837e-4cb3-9d20-1a42f92f16a3" />
+<img width="1720" height="880" alt="Screenshot (125)" src="https://github.com/user-attachments/assets/1b85b41b-837e-4cb3-9d20-1a42f92f16a3" />
 
 **KALI LINUX:**
-<img width="1920" height="1007" alt="Screenshot 2026-08-24 233230" src="https://github.com/user-attachments/assets/63d598f8-3a6e-4519-88a5-131b5c81eb9d" />
+<img width="1720" height="880" alt="Screenshot 2026-08-24 233230" src="https://github.com/user-attachments/assets/63d598f8-3a6e-4519-88a5-131b5c81eb9d" />
 
-<img width="1495" height="1029" alt="Screenshot 2026-08-24 230355" src="https://github.com/user-attachments/assets/449fbe68-2fc2-4d22-83d4-3436f690407e" />
+<img width="1495" height="929" alt="Screenshot 2026-08-24 230355" src="https://github.com/user-attachments/assets/449fbe68-2fc2-4d22-83d4-3436f690407e" />
 
 **SLEUTH-KIT:**
-<img width="1917" height="1029" alt="Screenshot 2026-08-24 232843" src="https://github.com/user-attachments/assets/694b5204-5fff-49f2-a5f0-cd92e8078102" />
+<img width="1720" height="880" alt="Screenshot 2026-08-24 232843" src="https://github.com/user-attachments/assets/694b5204-5fff-49f2-a5f0-cd92e8078102" />
 
 ## RESULT:
 The setup and installation of VMware, Kali Linux, and Sleuth Kit was completed successfully.
